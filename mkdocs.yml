@@ -1,5 +1,5 @@
 site_name: My Docs
-theme: 'mkdocs'
+theme: 'readthedocs'
 pages:
     - ['index.md', 'Start Here']
     - ['secondpage.md','Then go here']
