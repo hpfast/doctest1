@@ -1,1 +1,5 @@
 site_name: My Docs
+pages:
+    - ['docs/index.md', 'Start Here']
+    - ['docs/secondpage.md','Then go here']
+    - ['docs/thirdpage.md', 'Extras', 'And finally here']
