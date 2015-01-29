@@ -1,5 +1,6 @@
 site_name: My Docs
+theme: 'mkdocs'
 pages:
     - ['index.md', 'Start Here']
-    - ['secondpage.md/','Then go here']
-    - ['thirdpage.md/', 'Extras', 'And finally here']
+    - ['secondpage.md','Then go here']
+    - ['thirdpage.md', 'Extras', 'And finally here']
